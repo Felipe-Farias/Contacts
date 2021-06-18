@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Contacts" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/Beau_Blue</item>
+        <item name="colorPrimaryDark">@color/Raisin_black</item>
+        <item name="colorAccent">@color/Light_steel_blue</item>
+    </style>
+</resources>

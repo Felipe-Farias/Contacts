@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Contacts" parent="Theme.AppCompat.Light.DarkActionBar">
+
+         <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/Cadet</item>
+        <item name="colorPrimaryDark">@color/Raisin_black</item>
+        <item name="colorAccent">#474747</item>
+    </style>
+</resources>
